@@ -1,1 +1,1 @@
-# packageexample
+# samplenugetpackage
