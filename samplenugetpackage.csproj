@@ -3,11 +3,11 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     
-    <PackageId>demonugetpackagesample</PackageId>
+    <PackageId>packageexample</PackageId>
     <Version>1.0.0</Version>
-    <Authors>Julio Arruda</Authors>
-    <Company>Canal Julio Arruda</Company>
-    <RepositoryUrl>https://github.com/julioarruda/samplenugetpackage</RepositoryUrl>
+    <Authors>Marcelo</Authors>
+    <Company>Teste</Company>
+    <RepositoryUrl>https://github.com/otavioramostriad/packageexample</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   
   
